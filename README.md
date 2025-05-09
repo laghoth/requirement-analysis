@@ -47,8 +47,5 @@ These define how the system performs.
 ## Use Case Diagrams
 
 Use Case Diagrams visually represent how users interact with a system and help identify functional requirements.
-
-![Use Case Diagram](alx-booking-uc.png)
-
 ![alx-booking-uc](https://github.com/user-attachments/assets/b903a307-31f2-41f4-82ea-5cf066fdb7ca)
 
